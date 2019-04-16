@@ -1,0 +1,80 @@
+.jgc-social-icon-fa-square:before {
+	font-family: FontAwesome;
+	content:"\f180";
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	vertical-align: middle;
+	font-size: 24px;
+}
+a[href*="facebook.com"].jgc-social-icon-fa-square:before {
+	content: "\f230";
+	color:#3B5998;
+}
+a[href*="twitter.com"].jgc-social-icon-fa-square:before {
+	content: "\f081";
+	color:#1DA1F2;
+}
+a[href*="plus.google.com"].jgc-social-icon-fa-square:before {
+	content: "\f0d4";
+	color:#DB4437;
+}
+a[href*="linkedin.com"].jgc-social-icon-fa-square:before {
+	content: "\f08c";
+	color:#1C87BD;
+}
+a[href*="youtube.com"].jgc-social-icon-fa-square:before {
+	content: "\f166";
+	color:#E62117;
+}
+a[href*="wordpress.com"].jgc-social-icon-fa-square:before, a[href*="wordpress.org"].jgc-social-icon-fa-square:before {
+	content: "\f19a";
+	color:#0087BE;
+}
+a[href*="instagram.com"].jgc-social-icon-fa-square:before {
+	content: "\f16d";
+	color:#E75551;
+}
+a[href*="pinterest.com"].jgc-social-icon-fa-square:before {
+	content: "\f0d3";
+	color:#BD081C;
+}
+a[href*="github.com"].jgc-social-icon-fa-square:before {
+	content: "\f092";
+	color:#333333;
+}
+a[href*="skype.com"].jgc-social-icon-fa-square:before {
+	content: "\f17e";
+	color:#00AFF0;
+}
+a[href*="vimeo.com"].jgc-social-icon-fa-square:before {
+	content: "\f194";
+	color:#00ADEF;
+}
+a[href*="mailto:"].jgc-social-icon-fa-square:before {
+	content: "\f199";
+}
+a[href*="/feed/"].jgc-social-icon-fa-square:before {
+	content: "\f09e";
+	color:#FF9900;
+}
+
+/* Inherit color */
+div.jgc-social-icon-no-color a[href*="facebook.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="twitter.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="plus.google.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="linkedin.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="youtube.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="wordpress.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="wordpress.org"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="instagram.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="pinterest.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="github.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="skype.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="vimeo.com"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="mailto:"].jgc-social-icon-fa-square:before,
+div.jgc-social-icon-no-color a[href*="/feed/"].jgc-social-icon-fa-square:before{
+	color:inherit;
+}
+.jgcciw-free-text-wrapper{
+	margin-bottom: 5px;
+}

@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JGC Contact Info Widget\n"
+"POT-Creation-Date: 2017-01-29 10:47+0100\n"
+"PO-Revision-Date: 2017-01-29 10:47+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/jgc-widget-contact-info-widget.php:37
+msgid "Widget to display contact information."
+msgstr "Widget para mostrar información de contacto."
+
+#: inc/jgc-widget-contact-info-widget.php:40
+msgid "(JGC) Contact Info Widget"
+msgstr "(JGC) Contact Info Widget"
+
+#: inc/jgc-widget-contact-info-widget.php:89
+msgid "Title"
+msgstr "Título"
+
+#: inc/jgc-widget-contact-info-widget.php:94
+msgid "Company"
+msgstr "Empresa"
+
+#: inc/jgc-widget-contact-info-widget.php:98
+msgid "Address"
+msgstr "Dirección"
+
+#: inc/jgc-widget-contact-info-widget.php:106
+msgid "Zip Code"
+msgstr "Código postal"
+
+#: inc/jgc-widget-contact-info-widget.php:111
+msgid "City"
+msgstr "Ciudad"
+
+#: inc/jgc-widget-contact-info-widget.php:116
+msgid "Province"
+msgstr "Provincia"
+
+#: inc/jgc-widget-contact-info-widget.php:121
+msgid "Country"
+msgstr "País"
+
+#: inc/jgc-widget-contact-info-widget.php:126
+msgid "E-mail"
+msgstr "E-mail"
+
+#: inc/jgc-widget-contact-info-widget.php:131
+msgid "Phone(s)"
+msgstr "Teléfono(s)"
+
+#: inc/jgc-widget-contact-info-widget.php:136
+msgid "Mobile(s)"
+msgstr "Móvil(es)"
+
+#: inc/jgc-widget-contact-info-widget.php:141
+msgid "Fax"
+msgstr "Fax"
+
+#: inc/jgc-widget-contact-info-widget.php:146
+msgid "Social URL 1"
+msgstr "URL Social 1"
+
+#: inc/jgc-widget-contact-info-widget.php:151
+msgid "Social URL 2"
+msgstr "URL Social 2"
+
+#: inc/jgc-widget-contact-info-widget.php:156
+msgid "Social URL 3"
+msgstr "URL Social 3"
+
+#: inc/jgc-widget-contact-info-widget.php:160
+msgid "Text"
+msgstr "Texto"
+
+#: inc/jgc-widget-contact-info-widget.php:166
+msgid "Text location"
+msgstr "Localización del texto"
+
+#: inc/jgc-widget-contact-info-widget.php:168
+msgid "After data"
+msgstr "Después de los datos"
+
+#: inc/jgc-widget-contact-info-widget.php:169
+msgid "Before data"
+msgstr "Antes de los datos"
+
+#: inc/jgc-widget-contact-info-widget.php:173
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: inc/jgc-widget-contact-info-widget.php:178
+msgid "(Do not select color to keep the colors of your current theme)"
+msgstr ""
+"(No selecciones ningún color para mantener los colores de tu tema actual)"
+
+#: inc/jgc-widget-contact-info-widget.php:182
+msgid "Social Icons color"
+msgstr "Color de los iconos sociales"
+
+#: inc/jgc-widget-contact-info-widget.php:184
+msgid "Same that text"
+msgstr "El mismo que el texto"
+
+#: inc/jgc-widget-contact-info-widget.php:185
+msgid "Original color"
+msgstr "Color original"
+
+#: inc/jgc-widget-contact-info-widget.php:189
+msgid "Take a look to our Themes"
+msgstr "Échale un vistazo a nuestros Temas"

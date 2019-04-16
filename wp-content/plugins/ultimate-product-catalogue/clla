@@ -1,0 +1,321 @@
+./readme.txt:- Correct version of Shortcodes.php file included with this version (sorry!)
+./UPCP_Main.php:include "Functions/Shortcodes.php";
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:31
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:814
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:801
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:803
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:805
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:431
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:528
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:31
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:814
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:24
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:30
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:813
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:30
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:813
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:320
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:372
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:373
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:554
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:807
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:835
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:836
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:839
+./lang/ultimate-product-catalogue-tr_TR.po:#: Functions/Shortcodes.php:840
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:39
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:42
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:43 Functions/Shortcodes.php:1284
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:49 Functions/Shortcodes.php:1290
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:50 Functions/Shortcodes.php:1291
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:428
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:482 Functions/Shortcodes.php:483
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:630
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:632 html/OptionsPage.php:124
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:736
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:848 Functions/Shortcodes.php:1464
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:940 Functions/Shortcodes.php:1108
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:941 Functions/Shortcodes.php:1109
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1018
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1020
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1022
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1264
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1266
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1268 Functions/Shortcodes.php:1540
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1270
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1272
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1274
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1276
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1278
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1280
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1283
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1489 html/ProductDetails.php:59
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1532 html/ProductDetails.php:72
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1598
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1601
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1632
+./lang/ultimate-product-catalogue-de_DE.po:#: Functions/Shortcodes.php:1674 html/OptionsPage.php:430
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:112
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:117 Functions/Shortcodes.php:1716
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:118 Functions/Shortcodes.php:1717
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:124 Functions/Shortcodes.php:1723
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:125 Functions/Shortcodes.php:1724
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:129
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:247 Functions/Shortcodes.php:826
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1413
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:656 Functions/Shortcodes.php:657
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:828
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:830 html/OptionsPage.php:298
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:832
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:834
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:836
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:838 UPCP_Main.php:240
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:933 Functions/Shortcodes.php:1011
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1095
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:939 Functions/Shortcodes.php:1017
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1101
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:953 Functions/Shortcodes.php:1031
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1115
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1176 Functions/Shortcodes.php:2042
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1178 Functions/Shortcodes.php:2085
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1180 Functions/Shortcodes.php:1695
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2093 Functions/Shortcodes.php:2492
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1413
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1413 Functions/Shortcodes.php:1415
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1417 Functions/Shortcodes.php:1419
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1415
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1415
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1417
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1417
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1419
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1419
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1691 Functions/Shortcodes.php:2488
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1693 Functions/Shortcodes.php:2490
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1697
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1699
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1701
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1703
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1705
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1707
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1709
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1711
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1713
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1741 html/ProductsPage.php:107
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:1752
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2012 Functions/Shortcodes.php:2131
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2494 Functions/Shortcodes.php:3053
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2140 html/OptionsPage.php:581
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2194
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2197
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2236
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2284 Functions/Shortcodes.php:3042
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2326
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2373 Functions/Shortcodes.php:2382
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2965 Functions/Shortcodes.php:3005
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2967
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:2969 Functions/Shortcodes.php:3009
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:3007
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:3055
+./lang/ultimate-product-catalogue.pot:#: Functions/Shortcodes.php:3068
+./lang/ultimate-product-catalogue-fr_CA.po:#: Functions/Shortcodes.php:161
+./lang/ultimate-product-catalogue-fr_CA.po:#: Functions/Shortcodes.php:167
+./lang/ultimate-product-catalogue-fr_CA.po:#: Functions/Shortcodes.php:179
+./lang/ultimate-product-catalogue-fr_CA.po:#: Functions/Shortcodes.php:191 html/ItemDetails.php:65
+./lang/ultimate-product-catalogue-fr_CA.po:#: Functions/Shortcodes.php:207
+./lang/ultimate-product-catalogue-fr_CA.po:#: Functions/Shortcodes.php:210
+./lang/ultimate-product-catalogue-fr_CA.po:#: Functions/Shortcodes.php:213
+./lang/ultimate-product-catalogue-fr_CA.po:#: Functions/Shortcodes.php:276 Functions/Shortcodes.php:317
+./lang/ultimate-product-catalogue-fr_CA.po:#: Functions/Shortcodes.php:295
+./lang/ultimate-product-catalogue-it_IT.po:#: Functions/Shortcodes.php:161
+./lang/ultimate-product-catalogue-it_IT.po:#: Functions/Shortcodes.php:167
+./lang/ultimate-product-catalogue-it_IT.po:#: Functions/Shortcodes.php:179
+./lang/ultimate-product-catalogue-it_IT.po:#: Functions/Shortcodes.php:191 html/ItemDetails.php:65
+./lang/ultimate-product-catalogue-it_IT.po:#: Functions/Shortcodes.php:207
+./lang/ultimate-product-catalogue-it_IT.po:#: Functions/Shortcodes.php:210
+./lang/ultimate-product-catalogue-it_IT.po:#: Functions/Shortcodes.php:213
+./lang/ultimate-product-catalogue-it_IT.po:#: Functions/Shortcodes.php:276 Functions/Shortcodes.php:317
+./lang/ultimate-product-catalogue-it_IT.po:#: Functions/Shortcodes.php:295
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:254
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:258
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:259
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:260
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:261
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:269
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:270 ../../Functions/Shortcodes.php:271 ../..
+./lang/ultimate-product-catalogue-pt_BR.po:#: /Functions/Shortcodes.php:272 ../../html/CatalogueDetails.php:19 ../..
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:278
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:292
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:306 ../../html/ItemDetails.php:81 ../..
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:323 ../../Functions/Shortcodes.php:324
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:333
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:336
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:339
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:435 ../../Functions/Shortcodes.php:497
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:459
+./lang/ultimate-product-catalogue-pt_BR.po:#: ../../Functions/Shortcodes.php:485
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:29
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:32 Functions/Shortcodes.php:1031
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:33 Functions/Shortcodes.php:1032
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:39 Functions/Shortcodes.php:1038
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:40 Functions/Shortcodes.php:1039
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:399
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:453 Functions/Shortcodes.php:454
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:578
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:676
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:708 html/OptionsPage.php:88
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:782 Functions/Shortcodes.php:1208
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:865 html/ProductsPage.php:83 html/ProductsPage.php:131
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:866 html/ProductsPage.php:90 html/ProductsPage.php:138
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1020
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1022
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1024 Functions/Shortcodes.php:1282 html/ItemDetails.php:89
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1026
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1028
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1062
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1063
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1066
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1067
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1233 html/ItemDetails.php:63 html/ItemDetails.php:458
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1274 html/ItemDetails.php:76 html/ProductsPage.php:289
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1325
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1330
+./lang/ultimate-product-catalogue-nl_NL.po:#: Functions/Shortcodes.php:1367
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2738
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2725
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2723
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2678
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2643 Functions/Shortcodes.php:2680
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2641
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2639 Functions/Shortcodes.php:2676
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2152 Functions/Shortcodes.php:2161
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2106
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2065 Functions/Shortcodes.php:2712
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2019
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1982
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1979
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1929
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1805 Functions/Shortcodes.php:1920
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:2267
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1619 Functions/Shortcodes.php:1687
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1720 Functions/Shortcodes.php:1770
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1550 html/ProductsPage.php:83
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1517
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1515
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1513
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1511
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1509
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1507
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1505
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1503
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1499 Functions/Shortcodes.php:2263
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1497 Functions/Shortcodes.php:2261
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:996 Functions/Shortcodes.php:1501
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:1886 Functions/Shortcodes.php:2265
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:994 Functions/Shortcodes.php:1878
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:992 Functions/Shortcodes.php:1835
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:799
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:801 UPCP_Main.php:224
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:797
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:795
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:793 html/OptionsPage.php:253
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:791
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:623 Functions/Shortcodes.php:624
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:215 Functions/Shortcodes.php:789
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:97
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:93 Functions/Shortcodes.php:1528
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:92 Functions/Shortcodes.php:1527
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:86 Functions/Shortcodes.php:1521
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:85 Functions/Shortcodes.php:1520
+./lang/ultimate-product-catalogue-ru_RU.po:#: Functions/Shortcodes.php:80
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:35
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:38
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:39 Functions/Shortcodes.php:1180
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:45 Functions/Shortcodes.php:1186
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:46 Functions/Shortcodes.php:1187
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:417
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:471 Functions/Shortcodes.php:472
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:596
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:695
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:727 html/OptionsPage.php:105
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:803 Functions/Shortcodes.php:1354
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:889 Functions/Shortcodes.php:1036
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:890 Functions/Shortcodes.php:1037
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1168
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1170
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1172 Functions/Shortcodes.php:1430
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1174
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1176
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1179
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1210
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1211
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1214
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1215
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1379 html/ProductDetails.php:59
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1422 html/ProductDetails.php:72
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1488
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1491
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1547
+./lang/ultimate-product-catalogue-ro_RO.po:#: Functions/Shortcodes.php:1572 html/OptionsPage.php:261
+./lang/ultimate-product-catalogue-el_GR.po:#: Functions/Shortcodes.php:161
+./lang/ultimate-product-catalogue-el_GR.po:#: Functions/Shortcodes.php:167
+./lang/ultimate-product-catalogue-el_GR.po:#: Functions/Shortcodes.php:179
+./lang/ultimate-product-catalogue-el_GR.po:#: Functions/Shortcodes.php:191 html/ItemDetails.php:65
+./lang/ultimate-product-catalogue-el_GR.po:#: Functions/Shortcodes.php:207
+./lang/ultimate-product-catalogue-el_GR.po:#: Functions/Shortcodes.php:210
+./lang/ultimate-product-catalogue-el_GR.po:#: Functions/Shortcodes.php:213
+./lang/ultimate-product-catalogue-el_GR.po:#: Functions/Shortcodes.php:276 Functions/Shortcodes.php:317
+./lang/ultimate-product-catalogue-el_GR.po:#: Functions/Shortcodes.php:295
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:29
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:32 Functions/Shortcodes.php:1031
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:33 Functions/Shortcodes.php:1032
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:39 Functions/Shortcodes.php:1038
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:40 Functions/Shortcodes.php:1039
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:399
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:453 Functions/Shortcodes.php:454
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:578
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:676
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:708 html/OptionsPage.php:88
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:782 Functions/Shortcodes.php:1208
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:865 html/ProductsPage.php:83 html/ProductsPage.php:131
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:866 html/ProductsPage.php:90 html/ProductsPage.php:138
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1020
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1022
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1024 Functions/Shortcodes.php:1282 html/ItemDetails.php:89
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1026
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1028
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1062
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1063
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1066
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1067
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1233 html/ItemDetails.php:63 html/ItemDetails.php:458
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1274 html/ItemDetails.php:76 html/ProductsPage.php:289
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1325
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1330
+./lang/ultimate-product-catalogue-bg_BG.po:#: Functions/Shortcodes.php:1367
+./lang/ultimate-product-catalogue-fr_FR.po:#: Functions/Shortcodes.php:161
+./lang/ultimate-product-catalogue-fr_FR.po:#: Functions/Shortcodes.php:167
+./lang/ultimate-product-catalogue-fr_FR.po:#: Functions/Shortcodes.php:179
+./lang/ultimate-product-catalogue-fr_FR.po:#: Functions/Shortcodes.php:191 html/ItemDetails.php:65
+./lang/ultimate-product-catalogue-fr_FR.po:#: Functions/Shortcodes.php:207
+./lang/ultimate-product-catalogue-fr_FR.po:#: Functions/Shortcodes.php:210
+./lang/ultimate-product-catalogue-fr_FR.po:#: Functions/Shortcodes.php:213
+./lang/ultimate-product-catalogue-fr_FR.po:#: Functions/Shortcodes.php:276 Functions/Shortcodes.php:317
+./lang/ultimate-product-catalogue-fr_FR.po:#: Functions/Shortcodes.php:295
+./lang/ultimate-product-catalogue-lt_LT.po:#: Functions/Shortcodes.php:161
+./lang/ultimate-product-catalogue-lt_LT.po:#: Functions/Shortcodes.php:167
+./lang/ultimate-product-catalogue-lt_LT.po:#: Functions/Shortcodes.php:179
+./lang/ultimate-product-catalogue-lt_LT.po:#: Functions/Shortcodes.php:191 html/ItemDetails.php:65
+./lang/ultimate-product-catalogue-lt_LT.po:#: Functions/Shortcodes.php:207
+./lang/ultimate-product-catalogue-lt_LT.po:#: Functions/Shortcodes.php:210
+./lang/ultimate-product-catalogue-lt_LT.po:#: Functions/Shortcodes.php:213
+./lang/ultimate-product-catalogue-lt_LT.po:#: Functions/Shortcodes.php:276 Functions/Shortcodes.php:317
+./lang/ultimate-product-catalogue-lt_LT.po:#: Functions/Shortcodes.php:295
+./lang/ultimate-product-catalogue-es_ES.po:#: Functions/Shortcodes.php:161
+./lang/ultimate-product-catalogue-es_ES.po:#: Functions/Shortcodes.php:167
+./lang/ultimate-product-catalogue-es_ES.po:#: Functions/Shortcodes.php:179
+./lang/ultimate-product-catalogue-es_ES.po:#: Functions/Shortcodes.php:191 html/ItemDetails.php:65
+./lang/ultimate-product-catalogue-es_ES.po:#: Functions/Shortcodes.php:207
+./lang/ultimate-product-catalogue-es_ES.po:#: Functions/Shortcodes.php:210
+./lang/ultimate-product-catalogue-es_ES.po:#: Functions/Shortcodes.php:213
+./lang/ultimate-product-catalogue-es_ES.po:#: Functions/Shortcodes.php:276 Functions/Shortcodes.php:317
+./lang/ultimate-product-catalogue-es_ES.po:#: Functions/Shortcodes.php:295
